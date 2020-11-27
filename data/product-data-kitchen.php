@@ -1,0 +1,88 @@
+<?php
+	return $data_kitchen_products = [
+				[
+					"id" => "k1",
+					"name" => "Zeeba Basmati Rice",
+					"originalPrice" => 1020.00,
+					"reducePrice" => 950.00,
+					"image" => "images/k1.jpg",
+				],
+				[
+					"id" => "k2",
+					"name" => "Maiyas Gulab Jamun",
+					"originalPrice" => 420.00,
+					"reducePrice" => 137.00,
+					"image" => "images/k2.jpg",
+				],
+				[
+					"id" => "k3",
+					"name" => "Lipton Green Tea",
+					"originalPrice" => 480.00,
+					"reducePrice" => 384.00,
+					"image" => "images/k3.jpg",
+				],
+				[
+					"id" => "k4",
+					"name" => "Organicana Red Chilli",
+					"originalPrice" => 90.00,
+					"reducePrice" => 70.00,
+					"image" => "images/k4.jpg",
+				],
+				[
+					"id" => "k5",
+					"name" => "MTR Black Pepper",
+					"originalPrice" => 90.00,
+					"reducePrice" => 85.00,
+					"image" => "images/k5.jpg",
+				],
+				[
+					"id" => "k6",
+					"name" => "Chataka - Elaichi",
+					"originalPrice" => 425.00,
+					"reducePrice" => 299.99,
+					"image" => "images/k6.jpg",
+				],
+				[
+					"id" => "k7",
+					"name" => "Narulag, Less Sugar",
+					"originalPrice" => 250.00,
+					"reducePrice" => 220.00,
+					"image" => "images/k7.jpg",
+				],
+				[
+					"id" => "k8",
+					"name" => "Kellogg's Chocos Fills",
+					"originalPrice" => 195.00,
+					"reducePrice" => 175.75,
+					"image" => "images/k8.jpg",
+				],
+				[
+					"id" => "k9",
+					"name" => "Amul's India",
+					"originalPrice" => 150.00,
+					"reducePrice" => 134.00,
+					"image" => "images/k9.jpg",
+				],
+				[
+					"id" => "k10",
+					"name" => "Snickers Chocolates",
+					"originalPrice" => 150.00,
+					"reducePrice" => 140.00,
+					"image" => "images/k10.jpg",
+				],
+				[
+					"id" => "k11",
+					"name" => "Kissan Fruit Jam",
+					"originalPrice" => 150.00,
+					"reducePrice" => 123.00,
+					"image" => "images/k11.jpg",
+				],
+				[
+					"id" => "k12",
+					"name" => "MTR Vegetable Pickle",
+					"originalPrice" => 120.00,
+					"reducePrice" => 104.00,
+					"image" => "images/k12.jpg",
+				],
+	];
+?>

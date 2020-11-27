@@ -1,0 +1,88 @@
+<?php
+	return $data_kitchen_products = [
+				[
+					"id" => "h1",
+					"name" => "Vim Dishwash Gel",
+					"originalPrice" => 120.00,
+					"reducePrice" => 99.00,
+					"image" => "images/a1.jpg",
+				],
+				[
+					"id" => "h2",
+					"name" => "Harpic Cleaner",
+					"originalPrice" => 150.00,
+					"reducePrice" => 134.00,
+					"image" => "images/a2.jpg",
+				],
+				[
+					"id" => "h3",
+					"name" => "Comfort After Wash",
+					"originalPrice" => 450.00,
+					"reducePrice" => 306.85,
+					"image" => "images/a3.jpg",
+				],
+				[
+					"id" => "h4",
+					"name" => "Odonil Blocks (3+1)",
+					"originalPrice" => 160.00,
+					"reducePrice" => 141.00,
+					"image" => "images/a4.jpg",
+				],
+				[
+					"id" => "h5",
+					"name" => "Surf Excel Detergent",
+					"originalPrice" => 380.00,
+					"reducePrice" => 337.00,
+					"image" => "images/a5.jpg",
+				],
+				[
+					"id" => "h6",
+					"name" => "Sunsilk Shampoo",
+					"originalPrice" => 325.00,
+					"reducePrice" => 294.50,
+					"image" => "images/a6.jpg",
+				],
+				[
+					"id" => "h7",
+					"name" => "Gala Leader Floor Mop",
+					"originalPrice" => 180.00,
+					"reducePrice" => 149.00,
+					"image" => "images/a7.jpg",
+				],
+				[
+					"id" => "h8",
+					"name" => "Spotzero Spin Mop",
+					"originalPrice" => 999.00,
+					"reducePrice" => 888.00,
+					"image" => "images/a8.jpg",
+				],
+				[
+					"id" => "h9",
+					"name" => "Spotzero Zero Dust",
+					"originalPrice" => 150.00,
+					"reducePrice" => 139.00,
+					"image" => "images/a9.jpg",
+				],
+				[
+					"id" => "h10",
+					"name" => "All Out 480 Hours",
+					"originalPrice" => 120.00,
+					"reducePrice" => 89.00,
+					"image" => "images/a10.jpg",
+				],
+				[
+					"id" => "h11",
+					"name" => "Wall Hanging",
+					"originalPrice" => 400.00,
+					"reducePrice" => 349.00,
+					"image" => "images/a11.jpg",
+				],
+				[
+					"id" => "h12",
+					"name" => "Colin Regular Refill",
+					"originalPrice" => 180.00,
+					"reducePrice" => 155.00,
+					"image" => "images/a12.jpg",
+				],
+	];
+?>
